@@ -1,0 +1,9 @@
+pandoc: 2.19.2
+pkgdown: 2.0.7
+pkgdown_sha: ~
+articles: {}
+last_built: 2023-09-03T17:24Z
+urls:
+  reference: https://vcastro.github.io/VictoR/reference
+  article: https://vcastro.github.io/VictoR/articles
+
