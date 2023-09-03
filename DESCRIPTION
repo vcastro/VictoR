@@ -1,0 +1,16 @@
+Package: VictoR
+Title: Convenience Functions for Data Manipulation and Annotation
+Version: 0.0.0.9000
+Authors@R: 
+    person("Victor", "Castro", , "vcastro@mgh.harvard.edu", role = c("aut", "cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: VictoR provides often-used functions for data manipulation, 
+  annotation, and visualization.
+License: MIT + file LICENSE
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
+URL: https://vcastro.github.io/VictoR/
